@@ -1,3 +1,5 @@
+//Check if a number is pallindrome
+
 #include<iostream>
 using namespace std;
 bool isPalindrome(int n){

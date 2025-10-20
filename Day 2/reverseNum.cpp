@@ -1,3 +1,5 @@
+//reverse a number
+
 #include<iostream>
 using namespace std;
 int reverseNum(int n){
